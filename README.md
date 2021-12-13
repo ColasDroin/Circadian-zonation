@@ -1,5 +1,5 @@
 # Code repository: Space-time logic of liver gene expression at sublobular scale
-The main figures of the paper *Space-time logic of liver gene expression at sublobular scale* can be recreated from this code. All the computations are done in the script "Analysis.ipynb".
+The main figures of the paper *Space-time logic of liver gene expression at sublobular scale* by Droin et al. can be recreated from this code. All the computations are done in the script "Analysis.ipynb".
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for reproducibility purposes.
